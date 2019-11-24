@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574576902 source:c:\users\karin\onedrive\2 курс\прога\integral\main.cpp
+	<iostream>
+	<ctime>
+	<cmath>
+
